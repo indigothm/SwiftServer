@@ -1,0 +1,29 @@
+client:
+  name: swift-build
+
+tools: {}
+
+targets:
+  "": [<SS>]
+  SS: [<SS>]
+
+commands:
+  <SS-swiftc>:
+    tool: swift-compiler
+    executable: "/Library/Developer/Toolchains/swift-DEVELOPMENT-SNAPSHOT-2016-02-08-a.xctoolchain/usr/bin/swiftc"
+    inputs: ["/Users/iliatikhomirov/Documents/SwiftServer/Sources/main.swift"]
+    outputs: ["<SS-swiftc>","/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/SS.swiftmodule","/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/SS.o/Sources/main.swift.o"]
+    module-name: "SS"
+    module-output-path: "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/SS.swiftmodule"
+    is-library: false
+    sources: ["/Users/iliatikhomirov/Documents/SwiftServer/Sources/main.swift"]
+    objects: ["/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/SS.o/Sources/main.swift.o"]
+    import-paths: ["/Users/iliatikhomirov/Documents/SwiftServer/.build/debug"]
+    temps-path: "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/SS.o/SS"
+    other-args: ["-j8","-Onone","-g","-target","x86_64-apple-macosx10.10","-sdk","/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.11.sdk","-D","SWIFT_PACKAGE"]
+  <SS>:
+    tool: shell
+    inputs: ["<SS-swiftc>","/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/SS.o/Sources/main.swift.o","/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/PureJsonSerializer.a","/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/Vapor.a"]
+    outputs: ["<SS>","/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/SS"]
+    args: ["/Library/Developer/Toolchains/swift-DEVELOPMENT-SNAPSHOT-2016-02-08-a.xctoolchain/usr/bin/swiftc","-o","/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/SS","/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/SS.o/Sources/main.swift.o","-target","x86_64-apple-macosx10.10","-Xlinker","-all_load","-g","-sdk","/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.11.sdk","/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/Vapor.a","/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/PureJsonSerializer.a"]
+    description: "Linking Executable:  .build/debug/SS"

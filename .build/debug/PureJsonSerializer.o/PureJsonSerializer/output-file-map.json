@@ -1,0 +1,35 @@
+{
+  "": {
+    "swift-dependencies": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/PureJsonSerializer.o/PureJsonSerializer/master.swiftdeps"
+  },
+  "/Users/iliatikhomirov/Documents/SwiftServer/Packages/Swift-PureJsonSerializer-1.1.3/Source/Json.swift": {
+    "dependencies": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/PureJsonSerializer.o/PureJsonSerializer/Json.d",
+    "object": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/PureJsonSerializer.o/Source/Json.swift.o",
+    "swiftmodule": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/PureJsonSerializer.o/PureJsonSerializer/Json~partial.swiftmodule",
+    "swift-dependencies": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/PureJsonSerializer.o/PureJsonSerializer/Json.swiftdeps"
+  },
+  "/Users/iliatikhomirov/Documents/SwiftServer/Packages/Swift-PureJsonSerializer-1.1.3/Source/JsonParser.swift": {
+    "dependencies": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/PureJsonSerializer.o/PureJsonSerializer/JsonParser.d",
+    "object": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/PureJsonSerializer.o/Source/JsonParser.swift.o",
+    "swiftmodule": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/PureJsonSerializer.o/PureJsonSerializer/JsonParser~partial.swiftmodule",
+    "swift-dependencies": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/PureJsonSerializer.o/PureJsonSerializer/JsonParser.swiftdeps"
+  },
+  "/Users/iliatikhomirov/Documents/SwiftServer/Packages/Swift-PureJsonSerializer-1.1.3/Source/JsonSerializer.swift": {
+    "dependencies": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/PureJsonSerializer.o/PureJsonSerializer/JsonSerializer.d",
+    "object": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/PureJsonSerializer.o/Source/JsonSerializer.swift.o",
+    "swiftmodule": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/PureJsonSerializer.o/PureJsonSerializer/JsonSerializer~partial.swiftmodule",
+    "swift-dependencies": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/PureJsonSerializer.o/PureJsonSerializer/JsonSerializer.swiftdeps"
+  },
+  "/Users/iliatikhomirov/Documents/SwiftServer/Packages/Swift-PureJsonSerializer-1.1.3/Source/ParseError.swift": {
+    "dependencies": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/PureJsonSerializer.o/PureJsonSerializer/ParseError.d",
+    "object": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/PureJsonSerializer.o/Source/ParseError.swift.o",
+    "swiftmodule": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/PureJsonSerializer.o/PureJsonSerializer/ParseError~partial.swiftmodule",
+    "swift-dependencies": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/PureJsonSerializer.o/PureJsonSerializer/ParseError.swiftdeps"
+  },
+  "/Users/iliatikhomirov/Documents/SwiftServer/Packages/Swift-PureJsonSerializer-1.1.3/Source/StringUtils.swift": {
+    "dependencies": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/PureJsonSerializer.o/PureJsonSerializer/StringUtils.d",
+    "object": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/PureJsonSerializer.o/Source/StringUtils.swift.o",
+    "swiftmodule": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/PureJsonSerializer.o/PureJsonSerializer/StringUtils~partial.swiftmodule",
+    "swift-dependencies": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/PureJsonSerializer.o/PureJsonSerializer/StringUtils.swiftdeps"
+  }
+}

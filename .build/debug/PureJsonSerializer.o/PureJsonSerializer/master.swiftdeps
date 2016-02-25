@@ -1,0 +1,9 @@
+version: "Apple Swift version 3.0-dev (LLVM a7663bb722, Clang 4ca3c7fa28, Swift 1c2f40e246)"
+options: "0d2a53a3c9bc741c78ce29778a070478"
+build_time: [509676122, 775633000]
+inputs:
+  "/Users/iliatikhomirov/Documents/SwiftServer/Packages/Swift-PureJsonSerializer-1.1.3/Source/Json.swift": [509676121, 0]
+  "/Users/iliatikhomirov/Documents/SwiftServer/Packages/Swift-PureJsonSerializer-1.1.3/Source/JsonParser.swift": [509676121, 0]
+  "/Users/iliatikhomirov/Documents/SwiftServer/Packages/Swift-PureJsonSerializer-1.1.3/Source/JsonSerializer.swift": [509676121, 0]
+  "/Users/iliatikhomirov/Documents/SwiftServer/Packages/Swift-PureJsonSerializer-1.1.3/Source/ParseError.swift": [509676121, 0]
+  "/Users/iliatikhomirov/Documents/SwiftServer/Packages/Swift-PureJsonSerializer-1.1.3/Source/StringUtils.swift": [509676121, 0]

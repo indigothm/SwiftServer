@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/SS.o/SS/master.swiftdeps"
+  },
+  "/Users/iliatikhomirov/Documents/SwiftServer/Sources/main.swift": {
+    "dependencies": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/SS.o/SS/main.d",
+    "object": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/SS.o/Sources/main.swift.o",
+    "swiftmodule": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/SS.o/SS/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/SS.o/SS/main.swiftdeps"
+  }
+}

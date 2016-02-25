@@ -1,0 +1,161 @@
+{
+  "": {
+    "swift-dependencies": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/Vapor.o/Vapor/master.swiftdeps"
+  },
+  "/Users/iliatikhomirov/Documents/SwiftServer/Packages/vapor-0.2.1/Sources/Branch.swift": {
+    "dependencies": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/Vapor.o/Vapor/Branch.d",
+    "object": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/Vapor.o/Sources/Branch.swift.o",
+    "swiftmodule": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/Vapor.o/Vapor/Branch~partial.swiftmodule",
+    "swift-dependencies": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/Vapor.o/Vapor/Branch.swiftdeps"
+  },
+  "/Users/iliatikhomirov/Documents/SwiftServer/Packages/vapor-0.2.1/Sources/Controller.swift": {
+    "dependencies": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/Vapor.o/Vapor/Controller.d",
+    "object": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/Vapor.o/Sources/Controller.swift.o",
+    "swiftmodule": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/Vapor.o/Vapor/Controller~partial.swiftmodule",
+    "swift-dependencies": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/Vapor.o/Vapor/Controller.swiftdeps"
+  },
+  "/Users/iliatikhomirov/Documents/SwiftServer/Packages/vapor-0.2.1/Sources/Hash.swift": {
+    "dependencies": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/Vapor.o/Vapor/Hash.d",
+    "object": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/Vapor.o/Sources/Hash.swift.o",
+    "swiftmodule": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/Vapor.o/Vapor/Hash~partial.swiftmodule",
+    "swift-dependencies": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/Vapor.o/Vapor/Hash.swiftdeps"
+  },
+  "/Users/iliatikhomirov/Documents/SwiftServer/Packages/vapor-0.2.1/Sources/Int+Random.swift": {
+    "dependencies": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/Vapor.o/Vapor/Int+Random.d",
+    "object": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/Vapor.o/Sources/Int+Random.swift.o",
+    "swiftmodule": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/Vapor.o/Vapor/Int+Random~partial.swiftmodule",
+    "swift-dependencies": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/Vapor.o/Vapor/Int+Random.swiftdeps"
+  },
+  "/Users/iliatikhomirov/Documents/SwiftServer/Packages/vapor-0.2.1/Sources/JSONSerializer.swift": {
+    "dependencies": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/Vapor.o/Vapor/JSONSerializer.d",
+    "object": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/Vapor.o/Sources/JSONSerializer.swift.o",
+    "swiftmodule": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/Vapor.o/Vapor/JSONSerializer~partial.swiftmodule",
+    "swift-dependencies": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/Vapor.o/Vapor/JSONSerializer.swiftdeps"
+  },
+  "/Users/iliatikhomirov/Documents/SwiftServer/Packages/vapor-0.2.1/Sources/LinuxFixes.swift": {
+    "dependencies": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/Vapor.o/Vapor/LinuxFixes.d",
+    "object": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/Vapor.o/Sources/LinuxFixes.swift.o",
+    "swiftmodule": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/Vapor.o/Vapor/LinuxFixes~partial.swiftmodule",
+    "swift-dependencies": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/Vapor.o/Vapor/LinuxFixes.swiftdeps"
+  },
+  "/Users/iliatikhomirov/Documents/SwiftServer/Packages/vapor-0.2.1/Sources/MemorySessionDriver.swift": {
+    "dependencies": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/Vapor.o/Vapor/MemorySessionDriver.d",
+    "object": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/Vapor.o/Sources/MemorySessionDriver.swift.o",
+    "swiftmodule": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/Vapor.o/Vapor/MemorySessionDriver~partial.swiftmodule",
+    "swift-dependencies": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/Vapor.o/Vapor/MemorySessionDriver.swiftdeps"
+  },
+  "/Users/iliatikhomirov/Documents/SwiftServer/Packages/vapor-0.2.1/Sources/Middleware.swift": {
+    "dependencies": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/Vapor.o/Vapor/Middleware.d",
+    "object": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/Vapor.o/Sources/Middleware.swift.o",
+    "swiftmodule": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/Vapor.o/Vapor/Middleware~partial.swiftmodule",
+    "swift-dependencies": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/Vapor.o/Vapor/Middleware.swiftdeps"
+  },
+  "/Users/iliatikhomirov/Documents/SwiftServer/Packages/vapor-0.2.1/Sources/RenderDriver.swift": {
+    "dependencies": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/Vapor.o/Vapor/RenderDriver.d",
+    "object": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/Vapor.o/Sources/RenderDriver.swift.o",
+    "swiftmodule": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/Vapor.o/Vapor/RenderDriver~partial.swiftmodule",
+    "swift-dependencies": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/Vapor.o/Vapor/RenderDriver.swiftdeps"
+  },
+  "/Users/iliatikhomirov/Documents/SwiftServer/Packages/vapor-0.2.1/Sources/Request.swift": {
+    "dependencies": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/Vapor.o/Vapor/Request.d",
+    "object": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/Vapor.o/Sources/Request.swift.o",
+    "swiftmodule": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/Vapor.o/Vapor/Request~partial.swiftmodule",
+    "swift-dependencies": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/Vapor.o/Vapor/Request.swiftdeps"
+  },
+  "/Users/iliatikhomirov/Documents/SwiftServer/Packages/vapor-0.2.1/Sources/RequestFormExtension.swift": {
+    "dependencies": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/Vapor.o/Vapor/RequestFormExtension.d",
+    "object": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/Vapor.o/Sources/RequestFormExtension.swift.o",
+    "swiftmodule": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/Vapor.o/Vapor/RequestFormExtension~partial.swiftmodule",
+    "swift-dependencies": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/Vapor.o/Vapor/RequestFormExtension.swiftdeps"
+  },
+  "/Users/iliatikhomirov/Documents/SwiftServer/Packages/vapor-0.2.1/Sources/Response.swift": {
+    "dependencies": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/Vapor.o/Vapor/Response.d",
+    "object": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/Vapor.o/Sources/Response.swift.o",
+    "swiftmodule": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/Vapor.o/Vapor/Response~partial.swiftmodule",
+    "swift-dependencies": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/Vapor.o/Vapor/Response.swiftdeps"
+  },
+  "/Users/iliatikhomirov/Documents/SwiftServer/Packages/vapor-0.2.1/Sources/ResponseConvertible.swift": {
+    "dependencies": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/Vapor.o/Vapor/ResponseConvertible.d",
+    "object": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/Vapor.o/Sources/ResponseConvertible.swift.o",
+    "swiftmodule": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/Vapor.o/Vapor/ResponseConvertible~partial.swiftmodule",
+    "swift-dependencies": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/Vapor.o/Vapor/ResponseConvertible.swiftdeps"
+  },
+  "/Users/iliatikhomirov/Documents/SwiftServer/Packages/vapor-0.2.1/Sources/Router.swift": {
+    "dependencies": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/Vapor.o/Vapor/Router.d",
+    "object": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/Vapor.o/Sources/Router.swift.o",
+    "swiftmodule": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/Vapor.o/Vapor/Router~partial.swiftmodule",
+    "swift-dependencies": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/Vapor.o/Vapor/Router.swiftdeps"
+  },
+  "/Users/iliatikhomirov/Documents/SwiftServer/Packages/vapor-0.2.1/Sources/RouterDriver.swift": {
+    "dependencies": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/Vapor.o/Vapor/RouterDriver.d",
+    "object": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/Vapor.o/Sources/RouterDriver.swift.o",
+    "swiftmodule": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/Vapor.o/Vapor/RouterDriver~partial.swiftmodule",
+    "swift-dependencies": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/Vapor.o/Vapor/RouterDriver.swiftdeps"
+  },
+  "/Users/iliatikhomirov/Documents/SwiftServer/Packages/vapor-0.2.1/Sources/Server.swift": {
+    "dependencies": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/Vapor.o/Vapor/Server.d",
+    "object": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/Vapor.o/Sources/Server.swift.o",
+    "swiftmodule": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/Vapor.o/Vapor/Server~partial.swiftmodule",
+    "swift-dependencies": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/Vapor.o/Vapor/Server.swiftdeps"
+  },
+  "/Users/iliatikhomirov/Documents/SwiftServer/Packages/vapor-0.2.1/Sources/ServerDriver.swift": {
+    "dependencies": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/Vapor.o/Vapor/ServerDriver.d",
+    "object": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/Vapor.o/Sources/ServerDriver.swift.o",
+    "swiftmodule": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/Vapor.o/Vapor/ServerDriver~partial.swiftmodule",
+    "swift-dependencies": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/Vapor.o/Vapor/ServerDriver.swiftdeps"
+  },
+  "/Users/iliatikhomirov/Documents/SwiftServer/Packages/vapor-0.2.1/Sources/Session.swift": {
+    "dependencies": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/Vapor.o/Vapor/Session.d",
+    "object": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/Vapor.o/Sources/Session.swift.o",
+    "swiftmodule": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/Vapor.o/Vapor/Session~partial.swiftmodule",
+    "swift-dependencies": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/Vapor.o/Vapor/Session.swiftdeps"
+  },
+  "/Users/iliatikhomirov/Documents/SwiftServer/Packages/vapor-0.2.1/Sources/SessionMiddleware.swift": {
+    "dependencies": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/Vapor.o/Vapor/SessionMiddleware.d",
+    "object": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/Vapor.o/Sources/SessionMiddleware.swift.o",
+    "swiftmodule": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/Vapor.o/Vapor/SessionMiddleware~partial.swiftmodule",
+    "swift-dependencies": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/Vapor.o/Vapor/SessionMiddleware.swiftdeps"
+  },
+  "/Users/iliatikhomirov/Documents/SwiftServer/Packages/vapor-0.2.1/Sources/Socket.swift": {
+    "dependencies": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/Vapor.o/Vapor/Socket.d",
+    "object": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/Vapor.o/Sources/Socket.swift.o",
+    "swiftmodule": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/Vapor.o/Vapor/Socket~partial.swiftmodule",
+    "swift-dependencies": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/Vapor.o/Vapor/Socket.swiftdeps"
+  },
+  "/Users/iliatikhomirov/Documents/SwiftServer/Packages/vapor-0.2.1/Sources/SocketParser.swift": {
+    "dependencies": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/Vapor.o/Vapor/SocketParser.d",
+    "object": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/Vapor.o/Sources/SocketParser.swift.o",
+    "swiftmodule": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/Vapor.o/Vapor/SocketParser~partial.swiftmodule",
+    "swift-dependencies": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/Vapor.o/Vapor/SocketParser.swiftdeps"
+  },
+  "/Users/iliatikhomirov/Documents/SwiftServer/Packages/vapor-0.2.1/Sources/SocketServer.swift": {
+    "dependencies": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/Vapor.o/Vapor/SocketServer.d",
+    "object": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/Vapor.o/Sources/SocketServer.swift.o",
+    "swiftmodule": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/Vapor.o/Vapor/SocketServer~partial.swiftmodule",
+    "swift-dependencies": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/Vapor.o/Vapor/SocketServer.swiftdeps"
+  },
+  "/Users/iliatikhomirov/Documents/SwiftServer/Packages/vapor-0.2.1/Sources/String+SHA1.swift": {
+    "dependencies": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/Vapor.o/Vapor/String+SHA1.d",
+    "object": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/Vapor.o/Sources/String+SHA1.swift.o",
+    "swiftmodule": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/Vapor.o/Vapor/String+SHA1~partial.swiftmodule",
+    "swift-dependencies": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/Vapor.o/Vapor/String+SHA1.swiftdeps"
+  },
+  "/Users/iliatikhomirov/Documents/SwiftServer/Packages/vapor-0.2.1/Sources/StringExtensions.swift": {
+    "dependencies": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/Vapor.o/Vapor/StringExtensions.d",
+    "object": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/Vapor.o/Sources/StringExtensions.swift.o",
+    "swiftmodule": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/Vapor.o/Vapor/StringExtensions~partial.swiftmodule",
+    "swift-dependencies": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/Vapor.o/Vapor/StringExtensions.swiftdeps"
+  },
+  "/Users/iliatikhomirov/Documents/SwiftServer/Packages/vapor-0.2.1/Sources/Vapor+Json.swift": {
+    "dependencies": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/Vapor.o/Vapor/Vapor+Json.d",
+    "object": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/Vapor.o/Sources/Vapor+Json.swift.o",
+    "swiftmodule": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/Vapor.o/Vapor/Vapor+Json~partial.swiftmodule",
+    "swift-dependencies": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/Vapor.o/Vapor/Vapor+Json.swiftdeps"
+  },
+  "/Users/iliatikhomirov/Documents/SwiftServer/Packages/vapor-0.2.1/Sources/View.swift": {
+    "dependencies": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/Vapor.o/Vapor/View.d",
+    "object": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/Vapor.o/Sources/View.swift.o",
+    "swiftmodule": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/Vapor.o/Vapor/View~partial.swiftmodule",
+    "swift-dependencies": "/Users/iliatikhomirov/Documents/SwiftServer/.build/debug/Vapor.o/Vapor/View.swiftdeps"
+  }
+}
